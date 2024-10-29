@@ -1,0 +1,367 @@
+{
+  "project_info": {
+    "project_number": "975620703335",
+    "firebase_url": "https://loginfirebase-9d539-default-rtdb.firebaseio.com",
+    "project_id": "loginfirebase-9d539",
+    "storage_bucket": "loginfirebase-9d539.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975620703335:android:4ff3fce5c0cfa1bdb680c2",
+        "android_client_info": {
+          "package_name": "com.asiaroboticaweb.loginkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975620703335-9ppkr5oobfpolnmt46b5lq1mjkbahqrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWp9j3GIBD-FAVhQt03A2mxgrueZGW-_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975620703335-9ppkr5oobfpolnmt46b5lq1mjkbahqrn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "975620703335-ett2m0tf7dkno272fmgtoaqa0ktaprv8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.clientesasiarobotica.asiarobotica.appClientes"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975620703335:android:c0d931bb6216e110b680c2",
+        "android_client_info": {
+          "package_name": "com.clientes.asiarobotica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975620703335-9ppkr5oobfpolnmt46b5lq1mjkbahqrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWp9j3GIBD-FAVhQt03A2mxgrueZGW-_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975620703335-9ppkr5oobfpolnmt46b5lq1mjkbahqrn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "975620703335-ett2m0tf7dkno272fmgtoaqa0ktaprv8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.clientesasiarobotica.asiarobotica.appClientes"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975620703335:android:1a80dc9744f00b56b680c2",
+        "android_client_info": {
+          "package_name": "com.clientesasiarobotica.asiarobotica.app_clientes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975620703335-3aob6nuojsgr61td72csl99hh9b4l32u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clientesasiarobotica.asiarobotica.app_clientes",
+            "certificate_hash": "8d1634156997135d3b6b9a873a798229d64eb2bc"
+          }
+        },
+        {
+          "client_id": "975620703335-a8qasla20vb302re0p2l7k30ie8c9rbq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clientesasiarobotica.asiarobotica.app_clientes",
+            "certificate_hash": "6de25725506e0760af09ecdb166e8a353fa165c6"
+          }
+        },
+        {
+          "client_id": "975620703335-9ppkr5oobfpolnmt46b5lq1mjkbahqrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWp9j3GIBD-FAVhQt03A2mxgrueZGW-_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975620703335-9ppkr5oobfpolnmt46b5lq1mjkbahqrn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "975620703335-ett2m0tf7dkno272fmgtoaqa0ktaprv8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.clientesasiarobotica.asiarobotica.appClientes"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975620703335:android:828e089b02a52871b680c2",
+        "android_client_info": {
+          "package_name": "com.example.asiarobotica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975620703335-di15aca0thf6sono9021ap4g6l0elfrm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asiarobotica",
+            "certificate_hash": "8d1634156997135d3b6b9a873a798229d64eb2bc"
+          }
+        },
+        {
+          "client_id": "975620703335-rbf1np0mp463rdqu3irt3gn9tv4u03tu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asiarobotica",
+            "certificate_hash": "6de25725506e0760af09ecdb166e8a353fa165c6"
+          }
+        },
+        {
+          "client_id": "975620703335-9ppkr5oobfpolnmt46b5lq1mjkbahqrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWp9j3GIBD-FAVhQt03A2mxgrueZGW-_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975620703335-9ppkr5oobfpolnmt46b5lq1mjkbahqrn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "975620703335-ett2m0tf7dkno272fmgtoaqa0ktaprv8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.clientesasiarobotica.asiarobotica.appClientes"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975620703335:android:46c17d76ea9ac9c4b680c2",
+        "android_client_info": {
+          "package_name": "com.example.dribble_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975620703335-9ppkr5oobfpolnmt46b5lq1mjkbahqrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWp9j3GIBD-FAVhQt03A2mxgrueZGW-_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975620703335-9ppkr5oobfpolnmt46b5lq1mjkbahqrn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "975620703335-ett2m0tf7dkno272fmgtoaqa0ktaprv8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.clientesasiarobotica.asiarobotica.appClientes"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975620703335:android:6468e64def54945db680c2",
+        "android_client_info": {
+          "package_name": "com.example.firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975620703335-9ppkr5oobfpolnmt46b5lq1mjkbahqrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWp9j3GIBD-FAVhQt03A2mxgrueZGW-_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975620703335-9ppkr5oobfpolnmt46b5lq1mjkbahqrn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "975620703335-ett2m0tf7dkno272fmgtoaqa0ktaprv8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.clientesasiarobotica.asiarobotica.appClientes"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975620703335:android:744611bd005eaf09b680c2",
+        "android_client_info": {
+          "package_name": "com.example.istp_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975620703335-9ppkr5oobfpolnmt46b5lq1mjkbahqrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWp9j3GIBD-FAVhQt03A2mxgrueZGW-_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975620703335-9ppkr5oobfpolnmt46b5lq1mjkbahqrn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "975620703335-ett2m0tf7dkno272fmgtoaqa0ktaprv8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.clientesasiarobotica.asiarobotica.appClientes"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975620703335:android:7a5690f8f9d25548b680c2",
+        "android_client_info": {
+          "package_name": "com.example.parametros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975620703335-9ppkr5oobfpolnmt46b5lq1mjkbahqrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWp9j3GIBD-FAVhQt03A2mxgrueZGW-_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975620703335-9ppkr5oobfpolnmt46b5lq1mjkbahqrn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "975620703335-ett2m0tf7dkno272fmgtoaqa0ktaprv8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.clientesasiarobotica.asiarobotica.appClientes"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975620703335:android:a1145179d7ed05ffb680c2",
+        "android_client_info": {
+          "package_name": "com.example.push_notificatios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975620703335-9ppkr5oobfpolnmt46b5lq1mjkbahqrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWp9j3GIBD-FAVhQt03A2mxgrueZGW-_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975620703335-9ppkr5oobfpolnmt46b5lq1mjkbahqrn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "975620703335-ett2m0tf7dkno272fmgtoaqa0ktaprv8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.clientesasiarobotica.asiarobotica.appClientes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

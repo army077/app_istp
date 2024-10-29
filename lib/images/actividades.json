@@ -1,0 +1,5228 @@
+{
+  "actividades":
+  [
+    {
+      "info": [
+        {
+          "id": "instalacion_shop",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_shop",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_shop",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "instalacion_capacitacion_shop",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Instalación/Capacitación"
+        },
+        {
+          "id": "mantenimiento_full_shop",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "instalacion_rodillos_shop",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Instalación de rodillos"
+        },
+        {
+          "id": "instalacion_colector_polvo_shop",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Instalación del colector de polvo"
+        },
+        {
+          "id": "actualizacion_dsp_nk_shop",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Actualización DSP a NK G2"
+        },
+        {
+          "id": "cambio_baleros_lineales_shop",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de baleros lineales"
+        },
+        {
+          "id": "cambios_bandas_shop",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de bandas"
+        },
+        {
+          "id": "cambio_chiller_shop",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de chiller"
+        },
+        {
+          "id": "cambio_spindle_shop",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de Spindle"
+        },
+        {
+          "id": "desmonte_pinion_shop",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Desmonte de piñón"
+        },
+        {
+          "id": "instalacion_pinion_shop",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Instalación de piñón"
+        },
+        {
+          "id": "cambio_tarjeta_control_shop",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de tarjeta de control"
+        },
+        {
+          "id": "cambio_sensores_shop",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de sensores"
+        },
+        {
+          "id": "cambio_driver_shop",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de driver"
+        },
+        {
+          "id": "cambio_stepper_shop",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de Stepper"
+        },
+        {
+          "id": "cambio_cable_blindado_shop",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de cable blindado"
+        },
+        {
+          "id": "nivelacion_mesa_shop",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Nivelación de mesa"
+        },
+        {
+          "id": "rectificacion_mesa_shop",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Rectificación de mesa"
+        },
+        {
+          "id": "cambio_cremalleras_shop",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Cambio de cremalleras"
+        },
+        {
+          "id": "cambio_mangueras_shop",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de mangueras neumaticas"
+        },
+        {
+          "id": "cambio_electrovalvula_shop",
+          "no_dias": 0.25,
+          "tiempo": 3,
+          "tipo": "Cambio de electroválvula"
+        },
+        {
+          "id": "desinstalacion_shop",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Desinstalación"
+        },
+        {
+          "id": "remplazo_sin_fin_z_shop",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje Z"
+        },
+        {
+          "id": "remplazo_sin_fin_x_shop",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje X"
+        }
+      ],
+      "maquina": "Shop"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_shop_rotativo",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_shop_rotativo",
+          "no_dias": 2.25,
+          "tiempo": 18,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_shop_rotativo",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "instalacion_capacitacion_shop_rotativo",
+          "no_dias": 4,
+          "tiempo": 24,
+          "tipo": "Instalación/Capacitación"
+        },
+        {
+          "id": "mantenimiento_full_shop_rotativo",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "instalacion_rodillos_shop_rotativo",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Instalación de rodillos"
+        },
+        {
+          "id": "instalacion_colector_polvo_shop_rotativo",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Instalación del colector de polvo"
+        },
+        {
+          "id": "actualizacion_dsp_nk_shop_rotativo",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Actualización DSP a NK G2"
+        },
+        {
+          "id": "configuracion_control_backup_shop_rotativo",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_shop_rotativo",
+          "no_dias": 0.375,
+          "tiempo": 4,
+          "tipo": "Desinstalación"
+        },
+        {
+          "id": "remplazo_sin_fin_z_shop_rotativo",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje Z"
+        },
+        {
+          "id": "remplazo_sin_fin_x_shop_rotativo",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje X"
+        }
+      ],
+      "maquina": "Shop + Rotativo"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_shop_pro",
+          "no_dias": 1,
+          "tiempo": 6,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_shop_pro",
+          "no_dias": 2,
+          "tiempo": 18,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_shop_pro",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "instalacion_capacitacion_shop_pro",
+          "no_dias": 3,
+          "tiempo": 24,
+          "tipo": "Instalación/Capacitación"
+        },
+        {
+          "id": "mantenimiento_full_shop_pro",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "actualizacion_dsp_nk_works",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Actualización DSP a NK G2"
+        },
+        {
+          "id": "cambio_baleros_lineal_shop_pro",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de baleros lineales"
+        },
+        {
+          "id": "cambio_bandas_shop_pro",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de bandas"
+        },
+        {
+          "id": "cambio_chiller_shop_pro",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de chiller"
+        },
+        {
+          "id": "cambio_spindle_shop_pro",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de Spindle"
+        },
+        {
+          "id": "desmonte_pinon_shop_pro",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Desmonte de piñón"
+        },
+        {
+          "id": "instalacion_pinon_shop_pro",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Instalación de piñón"
+        },
+        {
+          "id": "cambio_tarjeta_control_shop_pro",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de tarjeta de control"
+        },
+        {
+          "id": "cambio_bomba_shop_pro",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de bomba"
+        },
+        {
+          "id": "cambio_sensores_shop_pro",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de sensores"
+        },
+        {
+          "id": "cambio_driver_shop_pro",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de driver"
+        },
+        {
+          "id": "cambio_stepper_shop_pro",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de Stepper"
+        },
+        {
+          "id": "cambio_cable_blindado_shop_pro",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de cable blindado"
+        },
+        {
+          "id": "nivelacion_mesa_shop_pro",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Nivelación de mesa"
+        },
+        {
+          "id": "rectificacion_mesa_shop_pro",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Rectificación de mesa"
+        },
+        {
+          "id": "cambio_valvula_vacio_shop_pro",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de valvula de vacio"
+        },
+        {
+          "id": "cambio_ev_vacio_shop_pro",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de EV de vacío"
+        },
+        {
+          "id": "cambio_cremalleras_shop_pro",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Cambio de cremalleras"
+        },
+        {
+          "id": "configuracion_control_backup_shop_pro",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_shop_pro",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Desinstalación"
+        },
+        {
+          "id": "remplazo_sin_fin_z_shop_pro",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje Z"
+        },
+        {
+          "id": "remplazo_sin_fin_x_shop_pro",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje X"
+        }
+      ],
+      "maquina": "Shop Pro"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_maker",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_maker",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_maker",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "instalacion_capacitacion_maker",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Instalación/Capacitación"
+        },
+        {
+          "id": "mantenimiento_full_maker",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "actualizacion_dsp_nk_maker",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Actualización DSP a NK G2"
+        },
+        {
+          "id": "cambio_baleros_lineales_maker",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de baleros lineales"
+        },
+        {
+          "id": "cambio_spindle_maker",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de Spindle"
+        },
+        {
+          "id": "instalacion_pinon_maker",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Instalación de piñón"
+        },
+        {
+          "id": "cambio_tarjeta_control_maker",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de tarjeta de control"
+        },
+        {
+          "id": "cambio_sensores_maker",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de sensores"
+        },
+        {
+          "id": "cambio_driver_maker",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de driver"
+        },
+        {
+          "id": "cambio_stepper_maker",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de Stepper"
+        },
+        {
+          "id": "cambio_cable_blindado_maker",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de cable blindado"
+        },
+        {
+          "id": "nivelacion_mesa_maker",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Nivelación de mesa"
+        },
+        {
+          "id": "rectificacion_mesa_maker",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Rectificación de mesa"
+        },
+        {
+          "id": "configuracion_control_backup_maker",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_maker",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Desinstalación"
+        },
+        {
+          "id": "remplazo_sin_fin_z_maker",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje Z"
+        },
+        {
+          "id": "remplazo_sin_fin_x_maker",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje X"
+        }
+      ],
+      "maquina": "Maker"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_works",
+          "no_dias": 1,
+          "tiempo": 6,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_works",
+          "no_dias": 2,
+          "tiempo": 18,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_works",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "instalacion_capacitacion_works",
+          "no_dias": 3,
+          "tiempo": 24,
+          "tipo": "Instalación/Capacitación"
+        },
+        {
+          "id": "mantenimiento_full_works",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "actualizacion_dsp_nk_works",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Actualización DSP a NK G2"
+        },
+        {
+          "id": "cambio_baleros_lineal_works",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de baleros lineal"
+        },
+        {
+          "id": "cambio_bandas_works",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de bandas"
+        },
+        {
+          "id": "cambio_chiller_works",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de chiller"
+        },
+        {
+          "id": "cambio_spindle_works",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de Spindle"
+        },
+        {
+          "id": "desmonte_pinon_works",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Desmonte de piñón"
+        },
+        {
+          "id": "instalacion_pinon_works",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Instalación de piñón"
+        },
+        {
+          "id": "cambio_tarjeta_control_works",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de tarjeta de control"
+        },
+        {
+          "id": "cambio_bomba_works",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de bomba"
+        },
+        {
+          "id": "cambio_sensores_works",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de sensores"
+        },
+        {
+          "id": "cambio_driver_works",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de driver"
+        },
+        {
+          "id": "cambio_stepper_works",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de Stepper"
+        },
+        {
+          "id": "cambio_cable_blindado_works",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de cable blindado"
+        },
+        {
+          "id": "nivelacion_mesa_works",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Nivelación de mesa"
+        },
+        {
+          "id": "rectificacion_mesa_works",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Rectificación de mesa"
+        },
+        {
+          "id": "cambio_valvula_vacio_works",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de valvula de vacio"
+        },
+        {
+          "id": "cambio_ev_vacio_works",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de EV de vacío"
+        },
+        {
+          "id": "cambio_cremalleras_works",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Cambio de cremalleras"
+        },
+        {
+          "id": "configuracion_control_backup_works",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_works",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Desinstalación"
+        },
+        {
+          "id": "remplazo_sin_fin_z_works",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje Z"
+        },
+        {
+          "id": "remplazo_sin_fin_x_works",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje X"
+        }
+      ],
+      "maquina": "Works"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_works_rotativo",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_works_rotativo",
+          "no_dias": 2.5,
+          "tiempo": 20,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_works_rotativo",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "instalacion_capacitacion_works_rotativo",
+          "no_dias": 4,
+          "tiempo": 32,
+          "tipo": "Instalación/Capacitación"
+        },
+        {
+          "id": "mantenimiento_full_works_rotativo",
+          "no_dias": 2.5,
+          "tiempo": 20,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "actualizacion_dsp_nk_works_rotativo",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Actualización DSP a NK G2"
+        },
+        {
+          "id": "configuracion_control_backup_works_rotativo",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_works_rotativo",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Desinstalación"
+        },
+        {
+          "id": "remplazo_sin_fin_z_works_rotativo",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje Z"
+        },
+        {
+          "id": "remplazo_sin_fin_x_works_rotativo",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje X"
+        }
+      ],
+      "maquina": "Works + Rotativo"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_works_lt",
+          "no_dias": 1,
+          "tiempo": 6,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_works_lt",
+          "no_dias": 2,
+          "tiempo": 18,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_works_lt",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "instalacion_capacitacion_works_lt",
+          "no_dias": 3,
+          "tiempo": 24,
+          "tipo": "Instalación/Capacitación"
+        },
+        {
+          "id": "mantenimiento_full_works_lt",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "actualizacion_dsp_nk_works_lt",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Actualización DSP a NK G2"
+        },
+        {
+          "id": "cambio_baleros_lineal_works_lt",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de baleros lineal"
+        },
+        {
+          "id": "cambio_bandas_works_lt",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de bandas"
+        },
+        {
+          "id": "cambio_chiller_works_lt",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de chiller"
+        },
+        {
+          "id": "cambio_spindle_works_lt",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de Spindle"
+        },
+        {
+          "id": "desmonte_pinon_works_lt",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Desmonte de piñón"
+        },
+        {
+          "id": "instalacion_pinon_works_lt",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Instalación de piñón"
+        },
+        {
+          "id": "cambio_tarjeta_control_works_lt",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de tarjeta de control"
+        },
+        {
+          "id": "cambio_bomba_works_lt",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de bomba"
+        },
+        {
+          "id": "cambio_sensores_works_lt",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de sensores"
+        },
+        {
+          "id": "cambio_driver_works_lt",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de driver"
+        },
+        {
+          "id": "cambio_stepper_works_lt",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de Stepper"
+        },
+        {
+          "id": "cambio_cable_blindado_works_lt",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de cable blindado"
+        },
+        {
+          "id": "nivelacion_mesa_works_lt",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Nivelación de mesa"
+        },
+        {
+          "id": "rectificacion_mesa_works_lt",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Rectificación de mesa"
+        },
+        {
+          "id": "cambio_valvula_vacio_works_lt",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de valvula de vacio"
+        },
+        {
+          "id": "cambio_ev_vacio_works_lt",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de EV de vacío"
+        },
+        {
+          "id": "cambio_cremalleras_works_lt",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Cambio de cremalleras"
+        },
+        {
+          "id": "configuracion_control_backup_works_lt",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_works_lt",
+          "no_dias": 0.375,
+          "tiempo": 2,
+          "tipo": "Desinstalación"
+        },
+        {
+          "id": "remplazo_sin_fin_z_works_lt",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje Z"
+        },
+        {
+          "id": "remplazo_sin_fin_x_works_lt",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje X"
+        }
+      ],
+      "maquina": "Works LT"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_works_b",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_works_b",
+          "no_dias": 2.25,
+          "tiempo": 18,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_works_b",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "instalacion_capacitacion_works_b",
+          "no_dias": 3,
+          "tiempo": 24,
+          "tipo": "Instalación/Capacitación"
+        },
+        {
+          "id": "mantenimiento_full_works_b",
+          "no_dias": 2.5,
+          "tiempo": 20,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "actualizacion_dsp_nk_works_b",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Actualización DSP a NK G2"
+        },
+        {
+          "id": "cambio_baleros_lineal_works_b",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de baleros lineal"
+        },
+        {
+          "id": "cambio_bandas_works_b",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de bandas"
+        },
+        {
+          "id": "cambio_chiller_works_b",
+          "no_dias": 0.75,
+          "tiempo": 2,
+          "tipo": "Cambio de chiller"
+        },
+        {
+          "id": "cambio_spindle_works_b",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de Spindle"
+        },
+        {
+          "id": "desmonte_pinon_works_b",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Desmonte de piñón"
+        },
+        {
+          "id": "instalacion_pinon_works_b",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Instalación de piñón"
+        },
+        {
+          "id": "cambio_tarjeta_control_works_b",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de tarjeta de control"
+        },
+        {
+          "id": "cambio_bomba_works_b",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de bomba"
+        },
+        {
+          "id": "cambio_sensores_works_b",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de sensores"
+        },
+        {
+          "id": "cambio_driver_works_b",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de driver"
+        },
+        {
+          "id": "cambio_stepper_works_b",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de Stepper"
+        },
+        {
+          "id": "cambio_cable_blindado_works_b",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de cable blindado"
+        },
+        {
+          "id": "nivelacion_mesa_works_b",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Nivelación de mesa"
+        },
+        {
+          "id": "rectificacion_mesa_works_b",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Rectificación de mesa"
+        },
+        {
+          "id": "cambio_valvula_vacio_works_b",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de valvula de vacio"
+        },
+        {
+          "id": "cambio_ev_vacio_works_b",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de EV de vacío"
+        },
+        {
+          "id": "cambio_cremalleras_works_b",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Cambio de cremalleras"
+        },
+        {
+          "id": "cambio_mangueras_neumaticas_works_b",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de mangueras neumaticas"
+        },
+        {
+          "id": "configuracion_control_backup_works_b",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_works_b",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Desinstalación"
+        },
+        {
+          "id": "retrabajo_cadena_worksb",
+          "no_dias": 0.2,
+          "tiempo": 2,
+          "tipo": "Retrabajo de Cadena"
+        },
+        {
+          "id": "remplazo_sin_fin_z_worksb",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje Z"
+        },
+        {
+          "id": "remplazo_sin_fin_x_worksb",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje X"
+        }
+      ],
+      "maquina": "Works B"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_atc_boss_nk",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_atc_boss_nk",
+          "no_dias": 3,
+          "tiempo": 24,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_atc_boss_nk",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "instalacion_capacitacion_atc_boss_nk",
+          "no_dias": 4,
+          "tiempo": 32,
+          "tipo": "Instalación/Capacitación"
+        },
+        {
+          "id": "mantenimiento_full_atc_boss_nk",
+          "no_dias": 3,
+          "tiempo": 24,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "actualizacion_dsp_nk_atc_boss_nk",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Actualización DSP a NK G2"
+        },
+        {
+          "id": "cambio_baleros_lineales_atc_boss_nk",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de baleros lineales"
+        },
+        {
+          "id": "cambio_bandas_atc_boss_nk",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de bandas"
+        },
+        {
+          "id": "cambio_spindle_atc_boss_nk",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de Spindle"
+        },
+        {
+          "id": "desmonte_pinon_atc_boss_nk",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Desmonte de piñón"
+        },
+        {
+          "id": "instalacion_pinon_atc_boss_nk",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Instalación de piñón"
+        },
+        {
+          "id": "cambio_tarjeta_control_atc_boss_nk",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Cambio de tarjeta de control"
+        },
+        {
+          "id": "cambio_bomba_atc_boss_nk",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de bomba"
+        },
+        {
+          "id": "cambio_sensores_atc_boss_nk",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de sensores"
+        },
+        {
+          "id": "cambio_driver_atc_boss_nk",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de driver"
+        },
+        {
+          "id": "cambio_stepper_atc_boss_nk",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de Stepper"
+        },
+        {
+          "id": "cambio_servodrive_atc_boss_nk",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de servodrive"
+        },
+        {
+          "id": "cambio_servomotor_atc_boss_nk",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de servomotor"
+        },
+        {
+          "id": "cambio_cable_blindado_atc_boss_nk",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de cable blindado"
+        },
+        {
+          "id": "nivelacion_mesa_atc_boss_nk",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Nivelación de mesa"
+        },
+        {
+          "id": "rectificacion_mesa_atc_boss_nk",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Rectificación de mesa"
+        },
+        {
+          "id": "cambio_valvula_vacio_atc_boss_nk",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de valvula de vacio"
+        },
+        {
+          "id": "cambio_ev_vacio_atc_boss_nk",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de EV de vacío"
+        },
+        {
+          "id": "cambio_cremalleras_atc_boss_nk",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Cambio de cremalleras"
+        },
+        {
+          "id": "cambio_mangueras_neumaticas_atc_boss_nk",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de mangueras neumaticas"
+        },
+        {
+          "id": "configuracion_control_backup_atc_boss_nk",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_atc_boss_nk",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Desinstalación"
+        },
+        {
+          "id": "remplazo_sin_fin_z_atc_boss_nk",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje Z"
+        },
+        {
+          "id": "remplazo_sin_fin_x_atc_boss_nk",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje X"
+        }
+      ],
+      "maquina": "ATC-Boss-NK"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_atc_boss_adtech",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_atc_boss_adtech",
+          "no_dias": 3,
+          "tiempo": 24,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_atc_boss_adtech",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "instalacion_capacitacion_atc_boss_adtech",
+          "no_dias": 4,
+          "tiempo": 32,
+          "tipo": "Instalación/Capacitación"
+        },
+        {
+          "id": "mantenimiento_full_atc_boss_adtech",
+          "no_dias": 3,
+          "tiempo": 24,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "cambio_baleros_lineales_atc_boss_adtech",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de baleros lineales"
+        },
+        {
+          "id": "cambio_bandas_atc_boss_adtech",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de bandas"
+        },
+        {
+          "id": "cambio_spindle_atc_boss_adtech",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de Spindle"
+        },
+        {
+          "id": "desmonte_pinon_atc_boss_adtech",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Desmonte de piñón"
+        },
+        {
+          "id": "instalacion_pinon_atc_boss_adtech",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Instalación de piñón"
+        },
+        {
+          "id": "cambio_tarjeta_control_atc_boss_adtech",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Cambio de tarjeta de control"
+        },
+        {
+          "id": "cambio_bomba_atc_boss_adtech",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de bomba"
+        },
+        {
+          "id": "cambio_sensores_atc_boss_adtech",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de sensores"
+        },
+        {
+          "id": "cambio_driver_atc_boss_adtech",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de driver"
+        },
+        {
+          "id": "cambio_stepper_atc_boss_adtech",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de Stepper"
+        },
+        {
+          "id": "cambio_servodrive_atc_boss_adtech",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de servodrive"
+        },
+        {
+          "id": "cambio_servomotor_atc_boss_adtech",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de servomotor"
+        },
+        {
+          "id": "cambio_cable_blindado_atc_boss_adtech",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de cable blindado"
+        },
+        {
+          "id": "nivelacion_mesa_atc_boss_adtech",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Nivelación de mesa"
+        },
+        {
+          "id": "rectificacion_mesa_atc_boss_adtech",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Rectificación de mesa"
+        },
+        {
+          "id": "cambio_valvula_vacio_atc_boss_adtech",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de valvula de vacio"
+        },
+        {
+          "id": "cambio_ev_vacio_atc_boss_adtech",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de EV de vacío"
+        },
+        {
+          "id": "cambio_cremalleras_atc_boss_adtech",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Cambio de cremalleras"
+        },
+        {
+          "id": "cambio_mangueras_neumaticas_atc_boss_adtech",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de mangueras neumaticas"
+        },
+        {
+          "id": "configuracion_control_backup_atc_boss_adtech",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_atc_boss_adtech",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Desinstalación"
+        },
+        {
+          "id": "remplazo_sin_fin_z_atc_boss_adtech",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje Z"
+        },
+        {
+          "id": "remplazo_sin_fin_x_atc_boss_adtech",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje X"
+        }
+      ],
+      "maquina": "ATC Boss-Adtech"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_atc_boss_nk_rotativo",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_atc_boss_nk_rotativo",
+          "no_dias": 4,
+          "tiempo": 32,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_atc_boss_nk_rotativo",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "instalacion_capacitacion_atc_boss_nk_rotativo",
+          "no_dias": 5.5,
+          "tiempo": 44,
+          "tipo": "Instalación/Capacitación"
+        },
+        {
+          "id": "mantenimiento_full_atc_boss_nk_rotativo",
+          "no_dias": 3,
+          "tiempo": 24,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "actualizacion_dsp_nk_atc_boss_nk_rotativo",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Actualización DSP a NK G2"
+        },
+        {
+          "id": "configuracion_control_backup_atc_boss_nk_rotativo",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_atc_boss_nk_rotativo",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Desinstalación"
+        },
+        {
+          "id": "remplazo_sin_fin_z_atc_boss_nk_rotativo",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje Z"
+        },
+        {
+          "id": "remplazo_sin_fin_x_atc_boss_nk_rotativo",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje X"
+        }
+      ],
+      "maquina": "ATC-Boss-NK + Rotativo"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_atc_boss_syntec",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_atc_boss_syntec",
+          "no_dias": 2.5,
+          "tiempo": 20,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_atc_boss_syntec",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "instalacion_capacitacion_atc_boss_syntec",
+          "no_dias": 3,
+          "tiempo": 32,
+          "tipo": "Instalación/Capacitación"
+        },
+        {
+          "id": "mantenimiento_full_atc_boss_syntec",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "actualizacion_dsp_nk_atc_boss_syntec",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Actualización DSP a NK G2"
+        },
+        {
+          "id": "cambio_baleros_lineales_atc_boss_syntec",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de baleros lineales"
+        },
+        {
+          "id": "cambio_bandas_atc_boss_syntec",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de bandas"
+        },
+        {
+          "id": "cambio_spindle_atc_boss_syntec",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de Spindle"
+        },
+        {
+          "id": "desmonte_pinon_atc_boss_syntec",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Desmonte de piñón"
+        },
+        {
+          "id": "instalacion_pinon_atc_boss_syntec",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Instalación de piñón"
+        },
+        {
+          "id": "cambio_tarjeta_control_atc_boss_syntec",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Cambio de tarjeta de control"
+        },
+        {
+          "id": "cambio_bomba_atc_boss_syntec",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de bomba"
+        },
+        {
+          "id": "cambio_sensores_atc_boss_syntec",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de sensores"
+        },
+        {
+          "id": "cambio_servodrive_atc_boss_syntec",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de servodrive"
+        },
+        {
+          "id": "cambio_servomotor_atc_boss_syntec",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de servomotor"
+        },
+        {
+          "id": "cambio_cable_blindado_atc_boss_syntec",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de cable blindado"
+        },
+        {
+          "id": "nivelacion_mesa_atc_boss_syntec",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Nivelación de mesa"
+        },
+        {
+          "id": "rectificacion_mesa_atc_boss_syntec",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Rectificación de mesa"
+        },
+        {
+          "id": "cambio_valvula_vacio_atc_boss_syntec",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de valvula de vacio"
+        },
+        {
+          "id": "cambio_ev_vacio_atc_boss_syntec",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de EV de vacío"
+        },
+        {
+          "id": "cambio_cremalleras_atc_boss_syntec",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Cambio de cremalleras"
+        },
+        {
+          "id": "cambio_mangueras_neumaticas_atc_boss_syntec",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de mangueras neumaticas"
+        },
+        {
+          "id": "configuracion_control_backup_atc_boss_syntec",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_atc_boss_syntec",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Desinstalación"
+        },
+        {
+          "id": "remplazo_sin_fin_z_atc_boss_syntec",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje Z"
+        },
+        {
+          "id": "remplazo_sin_fin_x_atc_boss_syntec",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje X"
+        }
+      ],
+      "maquina": "ATC-Boss-Syntec"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_atc_boss_syntec_rotativo",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_atc_boss_syntec_rotativo",
+          "no_dias": 4,
+          "tiempo": 32,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_atc_boss_syntec_rotativo",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "mantenimiento_full_atc_boss_syntec_rotativo",
+          "no_dias": 3,
+          "tiempo": 24,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "actualizacion_dsp_nk_atc_boss_syntec_rotativo",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Actualización DSP a NK G2"
+        },
+        {
+          "id": "configuracion_control_backup_atc_boss_syntec_rotativo",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_atc_boss_syntec_rotativo",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Desinstalación"
+        },
+        {
+          "id": "remplazo_sin_fin_z_atc_boss_syntec_rotativo",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje Z"
+        },
+        {
+          "id": "remplazo_sin_fin_x_atc_boss_syntec_rotativo",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje X"
+        }
+      ],
+      "maquina": "ATC-Boss-Syntec + Rotativo"
+    },
+    {
+      "info": [
+        {
+          "id": "diagnostico_atc_siemens",
+          "no_dias": 0.2,
+          "tiempo": 4,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "mantenimiento_full_atc_siemens",
+          "no_dias": 0,
+          "tiempo": 0,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "capacitacion_atc_siemens",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "remplazo_sin_fin_z_atc_siemens",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje Z"
+        },
+        {
+          "id": "remplazo_sin_fin_x_atc_siemens",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje X"
+        }
+      ],
+      "maquina": "ATC-SIEMENS"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_atc_boss_c",
+          "no_dias": 1.5,
+          "tiempo": 16,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "desinstalacion_atc_boss_c",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Desinstalación"
+        },
+        {
+          "id": "remplazo_sin_fin_z_atc_boss_c",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje Z"
+        },
+        {
+          "id": "remplazo_sin_fin_x_atc_boss_c",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje X"
+        }
+      ],
+      "maquina": "ATC BossC"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_atc_boss_x2",
+          "no_dias": 3,
+          "tiempo": 24,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "desinstalacion_atc_boss_x2",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Desinstalación"
+        },
+        {
+          "id": "remplazo_sin_fin_z_atc_boss_x2",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje Z"
+        },
+        {
+          "id": "remplazo_sin_fin_x_atc_boss_x2",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje X"
+        }
+      ],
+      "maquina": "ATC BossX2"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_woodpro",
+          "no_dias": 1,
+          "tiempo": 6,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_woodpro",
+          "no_dias": 2,
+          "tiempo": 18,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_woodpro",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "instalacion_capacitacion_woodpro",
+          "no_dias": 3,
+          "tiempo": 24,
+          "tipo": "Instalación/Capacitación"
+        },
+        {
+          "id": "mantenimiento_full_woodpro",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "actualizacion_dsp_nk_woodpro",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Actualización DSP a NK G2"
+        },
+        {
+          "id": "cambio_baleros_lineaes_woodpro",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de baleros lineales"
+        },
+        {
+          "id": "cambio_tarjeta_control_woodpro",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de tarjeta de control"
+        },
+        {
+          "id": "cambio_bomba_woodpro",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de bomba"
+        },
+        {
+          "id": "cambio_sensores_woodpro",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de sensores"
+        },
+        {
+          "id": "cambio_driver_woodpro",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de driver"
+        },
+        {
+          "id": "cambio_stepper_woodpro",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de Stepper"
+        },
+        {
+          "id": "cambio_cable_blindado_woodpro",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de cable blindado"
+        },
+        {
+          "id": "nivelacion_mesa_woodpro",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Nivelación de mesa"
+        },
+        {
+          "id": "rectificacion_mesa_woodpro",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Rectificación de mesa"
+        },
+        {
+          "id": "cambio_valvula_vacio_woodpro",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de valvula de vacio"
+        },
+        {
+          "id": "cambio_ev_vacio_woodpro",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de EV de vacío"
+        },
+        {
+          "id": "cambio_cremalleras_woodpro",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Cambio de cremalleras"
+        },
+        {
+          "id": "cambio_mangueras_neumaticas_woodpro",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de mangueras neumaticas"
+        },
+        {
+          "id": "configuracion_control_backups_woodpro",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "remplazo_sin_fin_z_woodpro",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje Z"
+        },
+        {
+          "id": "remplazo_sin_fin_x_woodpro",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje X"
+        }
+      ],
+      "maquina": "WoodPro"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_stone",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "desinstalacion_stone",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Desinstalación"
+        },
+        {
+          "id": "remplazo_sin_fin_z_stone",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje Z"
+        },
+        {
+          "id": "remplazo_sin_fin_x_stone",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje X"
+        }
+      ],
+      "maquina": "StoneCNC"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_multihead",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_multihead",
+          "no_dias": 3,
+          "tiempo": 24,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_multihead",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "instalacion_capacitacion_multihead",
+          "no_dias": 4,
+          "tiempo": 32,
+          "tipo": "Instalación/Capacitación"
+        },
+        {
+          "id": "mantenimiento_full_multihead",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "actualizacion_dsp_nk_multihead",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Actualización DSP a NK G2"
+        },
+        {
+          "id": "cambio_baleros_lineales_multihead",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de baleros lineales"
+        },
+        {
+          "id": "cambio_bandas_multihead",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de bandas"
+        },
+        {
+          "id": "cambio_spindle_multihead",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de Spindle"
+        },
+        {
+          "id": "desmonte_pinon_multihead",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Desmonte de piñón"
+        },
+        {
+          "id": "instalacion_pinon_multihead",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Instalación de piñón"
+        },
+        {
+          "id": "cambio_tarjeta_control_multihead",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de tarjeta de control"
+        },
+        {
+          "id": "cambio_bomba_multihead",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de bomba"
+        },
+        {
+          "id": "cambio_sensores_multihead",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de sensores"
+        },
+        {
+          "id": "cambio_servodrive_multihead",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de servodrive"
+        },
+        {
+          "id": "cambio_servomotor_multihead",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de servomotor"
+        },
+        {
+          "id": "cambio_cable_blindado_multihead",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de cable blindado"
+        },
+        {
+          "id": "nivelacion_mesa_multihead",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Nivelación de mesa"
+        },
+        {
+          "id": "rectificacion_mesa_multihead",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Rectificación de mesa"
+        },
+        {
+          "id": "cambio_valvula_vacio_multihead",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de valvula de vacio"
+        },
+        {
+          "id": "cambio_ev_vacio_multihead",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de EV de vacío"
+        },
+        {
+          "id": "cambio_cremalleras_multihead",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Cambio de cremalleras"
+        },
+        {
+          "id": "cambio_mangueras_hidraulicas_multihead",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de mangueras hidraulicas"
+        },
+        {
+          "id": "configuracion_control_backup_multihead",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_multihead",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Desinstalación"
+        },
+        {
+          "id": "remplazo_sin_fin_z_multihead",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje Z"
+        },
+        {
+          "id": "remplazo_sin_fin_x_multihead",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje X"
+        }
+      ],
+      "maquina": "Multihead"
+    },
+    {
+      "info": [
+        {
+          "id": "capacitacion_multihead_swr_picador",
+          "no_dias": 4,
+          "tiempo": 32,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "instalacion_capacitacion_multihead_swr_picador",
+          "no_dias": 5,
+          "tiempo": 40,
+          "tipo": "Instalación/Capacitación"
+        },
+        {
+          "id": "configuracion_control_backup_multihead_swr_picador",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "remplazo_sin_fin_z_multihead_swr_picador",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje Z"
+        },
+        {
+          "id": "remplazo_sin_fin_x_multihead_swr_picador",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje X"
+        }
+      ],
+      "maquina": "Multihead + SWR Picador"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_multihead_t",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_multihead_t",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_multihead_t",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "instalacion_capacitacion_multihead_t",
+          "no_dias": 3,
+          "tiempo": 24,
+          "tipo": "Instalación/Capacitación"
+        },
+        {
+          "id": "mantenimiento_full_multihead_t",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "actualizacion_dsp_nk_multihead_t",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Actualización DSP a NK G2"
+        },
+        {
+          "id": "cambio_baleros_lineales_multihead_t",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de baleros lineales"
+        },
+        {
+          "id": "cambio_bandas_multihead_t",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de bandas"
+        },
+        {
+          "id": "cambio_spindle_multihead_t",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de Spindle"
+        },
+        {
+          "id": "desmonte_pinon_multihead_t",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Desmonte de piñón"
+        },
+        {
+          "id": "instalacion_pinon_multihead_t",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Instalación de piñón"
+        },
+        {
+          "id": "cambio_tarjeta_control_multihead_t",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de tarjeta de control"
+        },
+        {
+          "id": "cambio_bomba_multihead_t",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de bomba"
+        },
+        {
+          "id": "cambio_sensores_multihead_t",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de sensores"
+        },
+        {
+          "id": "cambio_servodrive_multihead_t",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de servodrive"
+        },
+        {
+          "id": "cambio_servomotor_multihead_t",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de servomotor"
+        },
+        {
+          "id": "cambio_cable_blindado_multihead_t",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de cable blindado"
+        },
+        {
+          "id": "nivelacion_mesa_multihead_t",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Nivelación de mesa"
+        },
+        {
+          "id": "rectificacion_mesa_multihead_t",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Rectificación de mesa"
+        },
+        {
+          "id": "cambio_valvula_vacio_multihead_t",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de valvula de vacio"
+        },
+        {
+          "id": "cambio_ev_vacio_multihead_t",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de EV de vacío"
+        },
+        {
+          "id": "cambio_cremalleras_multihead_t",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Cambio de cremalleras"
+        },
+        {
+          "id": "cambio_mangueras_hidraulicas_multihead_t",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de mangueras hidraulicas"
+        },
+        {
+          "id": "configuracion_control_backup_multihead_t",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_multihead_t",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Desinstalación"
+        },
+        {
+          "id": "remplazo_sin_fin_z_multihead_t",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje Z"
+        },
+        {
+          "id": "remplazo_sin_fin_x_multihead_t",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje X"
+        }
+      ],
+      "maquina": "MultiheadT"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_laser_lz",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_laser_lz",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_laser_lz",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "mantenimiento_full_laser_lz",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "cambio_baleros_lineaes_laser_lz",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de baleros lineales"
+        },
+        {
+          "id": "cambio_bandas_laser_lz",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de bandas"
+        },
+        {
+          "id": "cambio_tubo_co2_laser_lz",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de tubo CO2"
+        },
+        {
+          "id": "cambio_fuente_co2_laser_lz",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de fuente CO2"
+        },
+        {
+          "id": "cambio_chiller_laser_lz",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de chiller"
+        },
+        {
+          "id": "cambio_tarjeta_control_laser_lz",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de tarjeta de control"
+        },
+        {
+          "id": "cambio_sensores_laser_lz",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de sensores"
+        },
+        {
+          "id": "cambio_driver_laser_lz",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de driver"
+        },
+        {
+          "id": "cambio_stepper_laser_lz",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de Stepper"
+        },
+        {
+          "id": "cambio_cable_blindado_laser_lz",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de cable blindado"
+        },
+        {
+          "id": "cambio_opticos_co2_laser_lz",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Cambio de ópticos CO2"
+        },
+        {
+          "id": "nivelacion_mesa_laser_lz",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Nivelación de mesa"
+        },
+        {
+          "id": "nivelacion_panal_laser_lz",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Nivelación de panal"
+        },
+        {
+          "id": "cambio_poleas_laser_lz",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de poleas (CO2)"
+        },
+        {
+          "id": "cambio_mangueras_hidraulicas_laser_lz",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de mangueras hidraulicas"
+        },
+        {
+          "id": "configuracion_control_backup_laser_lz",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_laser_lz",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Desinstalación"
+        }
+      ],
+      "maquina": "Láser LZ"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_laser_lz_rotativo",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_laser_lz_rotativo",
+          "no_dias": 2.25,
+          "tiempo": 18,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_laser_lz_rotativo",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "mantenimiento_full_laser_lz_rotativo",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "configuracion_control_backup_laser_lz_rotativo",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_laser_lz_rotativo",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Desinstalación"
+        }
+      ],
+      "maquina": "Láser LZ + Rotativo"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_laser_lz_1309",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_laser_lz_1309",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_laser_lz_1309",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "mantenimiento_full_laser_lz_1309",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "instalacion_lente_enfoque_lz_1309",
+          "no_dias": 0.6,
+          "tiempo": 5,
+          "tipo": "Instalación de lente de enfoque"
+        },
+        {
+          "id": "cambio_baleros_lineales_laser_lz_1309",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de baleros lineales"
+        },
+        {
+          "id": "cambio_bandas_laser_lz_1309",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de bandas"
+        },
+        {
+          "id": "cambio_tubo_co2_laser_lz_1309",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de tubo CO2"
+        },
+        {
+          "id": "cambio_fuente_co2_laser_lz_1309",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de fuente CO2"
+        },
+        {
+          "id": "cambio_chiller_laser_lz_1309",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de chiller"
+        },
+        {
+          "id": "cambio_tarjeta_control_laser_lz_1309",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de tarjeta de control"
+        },
+        {
+          "id": "cambio_sensores_laser_lz_1309",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de sensores"
+        },
+        {
+          "id": "cambio_driver_laser_lz_1309",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de driver"
+        },
+        {
+          "id": "cambio_stepper_laser_lz_1309",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de Stepper"
+        },
+        {
+          "id": "cambio_cable_blindado_laser_lz_1309",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de cable blindado"
+        },
+        {
+          "id": "cambio_opticos_co2_laser_lz_1309",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Cambio de ópticos CO2"
+        },
+        {
+          "id": "nivelacion_mesa_laser_lz_1309",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Nivelación de mesa"
+        },
+        {
+          "id": "nivelacion_panal_laser_lz_1309",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Nivelación de panal"
+        },
+        {
+          "id": "cambio_poleas_laser_lz_1309",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de poleas (CO2)"
+        },
+        {
+          "id": "cambio_mangueras_hidraulicas_laser_lz_1309",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de mangueras hidraulicas"
+        },
+        {
+          "id": "configuracion_control_backup_laser_lz_1309",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_lz_1309",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Desinstalación"
+        }
+      ],
+      "maquina": "LZ1309"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_laser_lz_1309_rotativo",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_laser_lz_1309_rotativo",
+          "no_dias": 2.25,
+          "tiempo": 18,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_laser_lz_1309_rotativo",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "mantenimiento_full_laser_lz_1309_rotativo",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "configuracion_control_backup_laser_lz_1309_rotativo",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_lz_1309_rotativo",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Desinstalación"
+        }
+      ],
+      "maquina": "LZ1309 + Rotativo"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_laser_lz_1325",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_laser_lz_1325",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_laser_lz_1325",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "mantenimiento_full_laser_lz_1325",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "cambio_baleros_lineaes_laser_lz_1325",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de baleros lineales"
+        },
+        {
+          "id": "cambio_bandas_laser_lz_1325",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de bandas"
+        },
+        {
+          "id": "cambio_tubo_co2_laser_lz_1325",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de tubo CO2"
+        },
+        {
+          "id": "cambio_fuente_co2_laser_lz_1325",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de fuente CO2"
+        },
+        {
+          "id": "cambio_chiller_laser_lz_1325",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de chiller"
+        },
+        {
+          "id": "actualizacion_tarjeta_control_laser_lz_1325",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Actualización de la tarjeta de control"
+        },
+        {
+          "id": "cambio_tarjeta_control_laser_lz_1325",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de tarjeta de control"
+        },
+        {
+          "id": "cambio_sensores_laser_lz_1325",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de sensores"
+        },
+        {
+          "id": "cambio_driver_laser_lz_1325",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de driver"
+        },
+        {
+          "id": "cambio_stepper_laser_lz_1325",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de Stepper"
+        },
+        {
+          "id": "cambio_cable_blindado_laser_lz_1325",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de cable blindado"
+        },
+        {
+          "id": "cambio_opticos_co2_laser_lz_1325",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Cambio de ópticos CO2"
+        },
+        {
+          "id": "nivelacion_mesa_laser_lz_1325",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Nivelación de mesa"
+        },
+        {
+          "id": "nivelacion_panal_laser_lz_1325",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Nivelación de panal"
+        },
+        {
+          "id": "cambio_poleas_laser_lz_1325",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de poleas (CO2)"
+        },
+        {
+          "id": "cambio_mangueras_hidraulicas_laser_lz_1325",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de mangueras hidraulicas"
+        },
+        {
+          "id": "configuracion_control_backup_laser_lz_1325",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_laser_lz_1325",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Desinstalación"
+        }
+      ],
+      "maquina": "LZ1325"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_creator",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_creator",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_creator",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "instalacion_capacitacion_creator",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Instalación/Capacitación"
+        },
+        {
+          "id": "mantenimiento_full_creator",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "cambio_baleros_lineales_creator",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de baleros lineales"
+        },
+        {
+          "id": "cambio_bandas_creator",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de bandas"
+        },
+        {
+          "id": "cambio_tubo_co2_creator",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de tubo CO2"
+        },
+        {
+          "id": "cambio_fuente_co2_creator",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de fuente CO2"
+        },
+        {
+          "id": "cambio_chiller_creator",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de chiller"
+        },
+        {
+          "id": "cambio_tarjeta_control_creator",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de tarjeta de control"
+        },
+        {
+          "id": "cambio_sensores_creator",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de sensores"
+        },
+        {
+          "id": "cambio_drivers_creator",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de driver"
+        },
+        {
+          "id": "cambio_cable_blindado_creator",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de cable blindado"
+        },
+        {
+          "id": "cambio_opticos_co2_creator",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Cambio de ópticos CO2"
+        },
+        {
+          "id": "nivelacion_mesa_creator",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Nivelación de mesa"
+        },
+        {
+          "id": "nivelacion_panal_creator",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Nivelación de panal"
+        },
+        {
+          "id": "cambio_poleas_creator",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Cambio de poleas (CO2)"
+        },
+        {
+          "id": "cambio_mangueras_creator",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de mangueras"
+        },
+        {
+          "id": "configuracion_control_backup_creator",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_creator",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Desinstalación"
+        },
+        {
+          "id": "cambio_stepper_motor_creator",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de Stepper Motor"
+        }
+      ],
+      "maquina": "Creator"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_creator_rotativo",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_creator_rotativo",
+          "no_dias": 2.25,
+          "tiempo": 18,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_creator_rotativo",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "instalacion_capacitacion_creator_rotativo",
+          "no_dias": 3,
+          "tiempo": 24,
+          "tipo": "Instalación/Capacitación"
+        },
+        {
+          "id": "mantenimiento_full_creator_rotativo",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "configuracion_control_backup_creator_rotativo",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_creator_rotativo",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Desinstalación"
+        }
+      ],
+      "maquina": "Creator + Rotativo"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_creator0704",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_creator0704",
+          "no_dias": 1.75,
+          "tiempo": 13,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_creator0704",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "instalacion_capacitacion_creator0704",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Instalación/Capacitación"
+        },
+        {
+          "id": "mantenimiento_full_creator0704",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "cambio_baleros_lineales_creator0704",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de baleros lineales"
+        },
+        {
+          "id": "cambio_bandas_creator0704",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de bandas"
+        },
+        {
+          "id": "cambio_tubo_creator0704",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de tubo CO2"
+        },
+        {
+          "id": "cambio_fuente_co2_creator0704",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de fuente CO2"
+        },
+        {
+          "id": "cambio_chiller_creator0704",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de chiller"
+        },
+        {
+          "id": "cambio_tarjeta_control_creator0704",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de tarjeta de control"
+        },
+        {
+          "id": "cambio_sensores_creator0704",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de sensores"
+        },
+        {
+          "id": "cambio_driver_creator0704",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de driver"
+        },
+        {
+          "id": "cambio_cable_blindado_creator0704",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de cable blindado"
+        },
+        {
+          "id": "cambio_opticos_co2_creator0704",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Cambio de ópticos CO2"
+        },
+        {
+          "id": "nivelacion_mesa_creator0704",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Nivelación de mesa"
+        },
+        {
+          "id": "nivelacion_panal_creator0704",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Nivelación de panal"
+        },
+        {
+          "id": "cambio_poleas_creator0704",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Cambio de poleas (CO2)"
+        },
+        {
+          "id": "cambio_mangueras_creator0704",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de mangueras"
+        },
+        {
+          "id": "configuracion_control_backups_creator0704",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_creator0704",
+          "no_dias": 0.1875,
+          "tiempo": 1.5,
+          "tipo": "Desinstalación"
+        }
+      ],
+      "maquina": "Creator0704"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_creator1325",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_creator1325",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_creator1325",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "instalacion_capacitacion_creator1325",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Instalación/Capacitación"
+        },
+        {
+          "id": "mantenimiento_full_creator1325",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "cambio_baleros_lineales_creator1325",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de baleros lineales"
+        },
+        {
+          "id": "cambio_bandas_creator1325",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de bandas"
+        },
+        {
+          "id": "cambio_tubo_co2_creator1325",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de tubo CO2"
+        },
+        {
+          "id": "cambio_fuente_co2_creator1325",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de fuente CO2"
+        },
+        {
+          "id": "cambio_chiller_creator1325",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de chiller"
+        },
+        {
+          "id": "cambio_tarjeta_control_creator1325",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de tarjeta de control"
+        },
+        {
+          "id": "cambio_sensores_creator1325",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de sensores"
+        },
+        {
+          "id": "cambio_driver_creator1325",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de driver"
+        },
+        {
+          "id": "cambio_cable_blindado_creator1325",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de cable blindado"
+        },
+        {
+          "id": "cambio_opticos_co2_creator1325",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Cambio de ópticos CO2"
+        },
+        {
+          "id": "nivelacion_mesa_creator1325",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Nivelación de mesa"
+        },
+        {
+          "id": "nivelacion_panal_creator1325",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Nivelación de panal"
+        },
+        {
+          "id": "cambio_poleas_creator1325",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Cambio de poleas (CO2)"
+        },
+        {
+          "id": "cambio_mangueras_creator1325",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de mangueras"
+        },
+        {
+          "id": "configuracion_control_backup_creator1325",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_creator1325",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Desinstalación"
+        }
+      ],
+      "maquina": "Creator1325"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_creator1409",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_creator1409",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_creator1409",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "instalacion_capacitacion_creator1409",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Instalación/Capacitación"
+        },
+        {
+          "id": "mantenimiento_full_creator1409",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "cambio_baleros_lineales_creator1409",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de baleros lineales"
+        },
+        {
+          "id": "cambio_bandas_creator1409",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de bandas"
+        },
+        {
+          "id": "cambio_tubo_co2_creator1409",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de tubo CO2"
+        },
+        {
+          "id": "cambio_fuente_co2_creator1409",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de fuente CO2"
+        },
+        {
+          "id": "cambio_chiller_creator1409",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de chiller"
+        },
+        {
+          "id": "cambio_tarjeta_control_creator1409",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de tarjeta de control"
+        },
+        {
+          "id": "cambio_sensores_creator1409",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de sensores"
+        },
+        {
+          "id": "cambio_driver_creator1409",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de driver"
+        },
+        {
+          "id": "cambio_cable_blindado_creator1409",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de cable blindado"
+        },
+        {
+          "id": "cambio_opticos_co2_creator1409",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Cambio de ópticos CO2"
+        },
+        {
+          "id": "nivelacion_mesa_creator1409",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Nivelación de mesa"
+        },
+        {
+          "id": "nivelacion_panal_creator1409",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Nivelación de panal"
+        },
+        {
+          "id": "cambio_poleas_creator1409",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Cambio de poleas (CO2)"
+        },
+        {
+          "id": "cambio_mangueras_creator1409",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de mangueras"
+        },
+        {
+          "id": "configuracion_control_backup_creator1409",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_creator1409",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Desinstalación"
+        }
+      ],
+      "maquina": "Creator1409"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_creator1610",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_creator1610",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_creator1610",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "instalacion_capacitacion_creator1610",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Instalación/Capacitación"
+        },
+        {
+          "id": "mantenimiento_full_creator1610",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "cambio_baleros_lineales_creator1610",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de baleros lineales"
+        },
+        {
+          "id": "cambio_bandas_creator1610",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de bandas"
+        },
+        {
+          "id": "cambio_tubo_co2_creator1610",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de tubo CO2"
+        },
+        {
+          "id": "cambio_fuente_co2_creator1610",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de fuente CO2"
+        },
+        {
+          "id": "cambio_chiller_creator1610",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de chiller"
+        },
+        {
+          "id": "cambio_tarjeta_control_creator1610",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de tarjeta de control"
+        },
+        {
+          "id": "cambio_sensores_creator1610",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de sensores"
+        },
+        {
+          "id": "cambio_driver_creator1610",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de driver"
+        },
+        {
+          "id": "cambio_cable_blindado_creator1610",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de cable blindado"
+        },
+        {
+          "id": "cambio_opticos_co2_creator1610",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Cambio de ópticos CO2"
+        },
+        {
+          "id": "nivelacion_mesa_creator1610",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Nivelación de mesa"
+        },
+        {
+          "id": "nivelacion_panal_creator1610",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Nivelación de panal"
+        },
+        {
+          "id": "cambio_poleas_creator1610",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Cambio de poleas (CO2)"
+        },
+        {
+          "id": "cambio_mangueras_creator1610",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de mangueras"
+        },
+        {
+          "id": "configuracion_control_backup_creator1610",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_creator1610",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Desinstalación"
+        }
+      ],
+      "maquina": "Creator1610"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_ck_leg100",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_ck_leg100",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_ck_leg100",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "mantenimiento_full_ck_leg100",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "cambio_baleros_lineales_ck_leg100",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de baleros lineales"
+        },
+        {
+          "id": "cambio_bandas_ck_leg100",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de bandas"
+        },
+        {
+          "id": "cambio_tubo_co2_ck_leg100",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de tubo CO2"
+        },
+        {
+          "id": "instalacion_pinon_ck_leg100",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Instalación de piñón"
+        },
+        {
+          "id": "cambio_tarjeta_control_ck_leg100",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Cambio de tarjeta de control"
+        },
+        {
+          "id": "cambio_cable_blindado_ck_leg100",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Cambio de cable blindado"
+        },
+        {
+          "id": "nivelacion_mesa_ck_leg100",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Nivelación de mesa"
+        },
+        {
+          "id": "configuracion_control_backup_ck_leg100",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_ck_leg100",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Desinstalación"
+        }
+      ],
+      "maquina": "CK-LEG100"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_fiber_x0",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_fiber_x0",
+          "no_dias": 3.5,
+          "tiempo": 28,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_fiber_x0",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "instalacion_capacitacion_fiber_x0",
+          "no_dias": 5,
+          "tiempo": 40,
+          "tipo": "Instalación/Capacitación"
+        },
+        {
+          "id": "mantenimiento_full_fiber_x0",
+          "no_dias": 3,
+          "tiempo": 24,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "instalacion_modulo_fiber_x0",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Instalación del módulo"
+        },
+        {
+          "id": "cambio_baleros_lineaes_fiber_x0",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de baleros lineales"
+        },
+        {
+          "id": "cambio_bandas_fiber_x0",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de bandas"
+        },
+        {
+          "id": "cambio_fuente_laser_fiber_x0",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de fuente Fiber"
+        },
+        {
+          "id": "cambio_modulo_fiber_x0",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Cambio de módulo"
+        },
+        {
+          "id": "cambio_chiller_fiber_x0",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de chiller"
+        },
+        {
+          "id": "desmonte_pinon_fiber_x0",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Desmonte de piñón"
+        },
+        {
+          "id": "instalacion_pinon_fiber_x0",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Instalación de piñón"
+        },
+        {
+          "id": "cambio_tarjeta_control_fiber_x0",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de tarjeta de control"
+        },
+        {
+          "id": "cambio_sensores_fiber_x0",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de sensores"
+        },
+        {
+          "id": "mantenimiento_saap_fiber_x0",
+          "no_dias": 0,
+          "tiempo": 0,
+          "tipo": "Mantenimiento de SAAP"
+        },
+        {
+          "id": "cambio_servodrive_fiber_x0",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de servodrive"
+        },
+        {
+          "id": "cambio_servomotor_fiber_x0",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de servomotor"
+        },
+        {
+          "id": "cambio_cable_blindado_fiber_x0",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de cable blindado"
+        },
+        {
+          "id": "cambio_cpu_fiber_x0",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de CPU"
+        },
+        {
+          "id": "mantenimiento_cabezal_fiber_x0",
+          "no_dias": 0.625,
+          "tiempo": 5,
+          "tipo": "Mantenimiento Cabezal"
+        },
+        {
+          "id": "nivelacion_mesa_fiber_x0",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Nivelación de mesa"
+        },
+        {
+          "id": "parametrizacion_fiber_x0",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Parametrización (Fiber)"
+        },
+        {
+          "id": "cambio_cremalleras_fiber_x0",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Cambio de cremalleras"
+        },
+        {
+          "id": "cambio_mangueras_hidraulicas_fiber_x0",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de mangueras hidraulicas"
+        },
+        {
+          "id": "cambio_mangueras_neumaticas_fiber_x0",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de mangueras neumaticas"
+        },
+        {
+          "id": "configuracion_control_backup_fiber_x0",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_fiber_x0",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Desinstalación"
+        },
+        {
+          "id": "cuadratura_fiber_x0",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cuadratura de Equipo"
+        },
+        {
+          "id": "remplazo_sin_fin_z_fiber_x0",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje Z"
+        },
+        {
+          "id": "remplazo_sin_fin_x_fiber_x0",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje X"
+        }
+      ],
+      "maquina": "FiberBlade X0"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_fiber_x1",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_fiber_x1",
+          "no_dias": 3,
+          "tiempo": 24,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_fiber_x1",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "mantenimiento_full_fiber_x1",
+          "no_dias": 3,
+          "tiempo": 24,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "instalacion_modulo_fiber_x1",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Instalación del módulo"
+        },
+        {
+          "id": "cambio_baleros_lineales_fiber_x1",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de baleros lineales"
+        },
+        {
+          "id": "cambio_bandas_fiber_x1",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de bandas"
+        },
+        {
+          "id": "cambio_fuente_fiber_x1",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de fuente Fiber"
+        },
+        {
+          "id": "cambio_modulo_fiber_x1",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Cambio de módulo"
+        },
+        {
+          "id": "cambio_chiller_fiber_x1",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de chiller"
+        },
+        {
+          "id": "desmonte_pinon_fiber_x1",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Desmonte de piñón"
+        },
+        {
+          "id": "instalacion_pinon_fiber_x1",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Instalación de piñón"
+        },
+        {
+          "id": "cambio_tarjeta_control_fiber_x1",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de tarjeta de control"
+        },
+        {
+          "id": "cambio_sensores_fiber_x1",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de sensores"
+        },
+        {
+          "id": "mantenimiento_saap_fiber_x1",
+          "no_dias": 0,
+          "tiempo": 0,
+          "tipo": "Mantenimiento de SAAP"
+        },
+        {
+          "id": "cambio_servodrive_fiber_x1",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de servodrive"
+        },
+        {
+          "id": "cambio_servomotor_fiber_x1",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de servomotor"
+        },
+        {
+          "id": "instalacion_fiber_x1",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de cable blindado"
+        },
+        {
+          "id": "cambio_cpu_fiber_x1",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de CPU"
+        },
+        {
+          "id": "mantenimiento_cabezal_fiber_x1",
+          "no_dias": 0.625,
+          "tiempo": 5,
+          "tipo": "Mantenimiento Cabezal"
+        },
+        {
+          "id": "nivelacion_mesa_fiber_x1",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Nivelación de mesa"
+        },
+        {
+          "id": "instalacion_fiber_x1",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Parametrización (Fiber)"
+        },
+        {
+          "id": "cambio_cremalleras_fiber_x1",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Cambio de cremalleras"
+        },
+        {
+          "id": "cambio_mangueras_hidraulicas_fiber_x1",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de mangueras hidraulicas"
+        },
+        {
+          "id": "cambio_mangueras_neumaticas_fiber_x1",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de mangueras neumaticas"
+        },
+        {
+          "id": "configuracion_control_backup_fiber_x1",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_fiber_x1",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Desinstalación"
+        },
+        {
+          "id": "cuadratura_fiber_x1",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cuadratura de Equipo"
+        },
+        {
+          "id": "remplazo_sin_fin_z_fiber_x0",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje Z"
+        },
+        {
+          "id": "remplazo_sin_fin_x_fiber_x0",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje X"
+        }
+      ],
+      "maquina": "FiberBlade X1"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_fiber_x2",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_fiber_x2",
+          "no_dias": 3,
+          "tiempo": 24,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_fiber_x2",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "mantenimiento_full_fiber_x2",
+          "no_dias": 3,
+          "tiempo": 24,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "instalacion_modulo_fiber_x2",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Instalación del módulo"
+        },
+        {
+          "id": "cambio_baleros_lineales_fiber_x2",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de baleros lineales"
+        },
+        {
+          "id": "cambio_bandas_fiber_x2",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de bandas"
+        },
+        {
+          "id": "cambio_fuente_laser_fiber_x2",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de fuente Fiber"
+        },
+        {
+          "id": "cambio_modulo_fiber_x2",
+          "no_dias": 1,
+          "tiempo": 1,
+          "tipo": "Cambio de módulo"
+        },
+        {
+          "id": "cambio_chiller_fiber_x2",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de chiller"
+        },
+        {
+          "id": "desmonte_pinon_fiber_x2",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Desmonte de piñón"
+        },
+        {
+          "id": "instalacion_pinon_fiber_x2",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Instalación de piñón"
+        },
+        {
+          "id": "cambio_tarjeta_control_fiber_x2",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de tarjeta de control"
+        },
+        {
+          "id": "cambio_sensores_fiber_x2",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de sensores"
+        },
+        {
+          "id": "mantenimiento_saap_fiber_x2",
+          "no_dias": 0,
+          "tiempo": 0,
+          "tipo": "Mantenimiento de SAAP"
+        },
+        {
+          "id": "cambio_servodrive_fiber_x2",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de servodrive"
+        },
+        {
+          "id": "cambio_servomotor_fiber_x2",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de servomotor"
+        },
+        {
+          "id": "cambio_cable_blindado_fiber_x2",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de cable blindado"
+        },
+        {
+          "id": "cambio_cpu_fiber_x2",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de CPU"
+        },
+        {
+          "id": "mantenimiento_cabezal_fiber_x2",
+          "no_dias": 0.625,
+          "tiempo": 5,
+          "tipo": "Mantenimiento Cabezal"
+        },
+        {
+          "id": "nivelacion_mesa_fiber_x2",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Nivelación de mesa"
+        },
+        {
+          "id": "parametrizacion_fiber_x2",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Parametrización (Fiber)"
+        },
+        {
+          "id": "cambio_cremalleras_fiber_x2",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Cambio de cremalleras"
+        },
+        {
+          "id": "cambio_mangueras_hidraulicas_fiber_x2",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de mangueras hidraulicas"
+        },
+        {
+          "id": "cambio_mangueras_neumaticas_fiber_x2",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de mangueras neumaticas"
+        },
+        {
+          "id": "configuracion_control_backup_fiber_x2",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_fiber_x0",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Desinstalación"
+        },
+        {
+          "id": "cuadratura_fiber_x2",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cuadratura de Equipo"
+        },
+        {
+          "id": "remplazo_sin_fin_z_fiber_x2",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje Z"
+        },
+        {
+          "id": "remplazo_sin_fin_x_fiber_x2",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje X"
+        }
+      ],
+      "maquina": "FiberBlade X2"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_fiber_x2r",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_fiber_x2r",
+          "no_dias": 3.5,
+          "tiempo": 28,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_fiber_x2r",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "mantenimiento_full_fiber_x2r",
+          "no_dias": 3,
+          "tiempo": 24,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "instalacion_modulo_fiber_x2r",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Instalación del módulo"
+        },
+        {
+          "id": "cambio_baleros_lineales_fiber_x2r",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de baleros lineales"
+        },
+        {
+          "id": "cambio_bandas_fiber_x2r",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de bandas"
+        },
+        {
+          "id": "cambio_fuente_fiber_x2r",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de fuente Fiber"
+        },
+        {
+          "id": "cambio_modulo_fiber_x2r",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Cambio de módulo"
+        },
+        {
+          "id": "cambio_chiller_fiber_x2r",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de chiller"
+        },
+        {
+          "id": "desmonte_pinon_fiber_x2r",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Desmonte de piñón"
+        },
+        {
+          "id": "instalacion_pinon_fiber_x2r",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Instalación de piñón"
+        },
+        {
+          "id": "instalacion_tarjeta_control_fiber_x2r",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de tarjeta de control"
+        },
+        {
+          "id": "cambio_sensores_fiber_x2r",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de sensores"
+        },
+        {
+          "id": "mantenimiento_saap_fiber_x2r",
+          "no_dias": 0,
+          "tiempo": 0,
+          "tipo": "Mantenimiento de SAAP"
+        },
+        {
+          "id": "cambio_servodrive_fiber_x2r",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de servodrive"
+        },
+        {
+          "id": "cambio_servomotor_fiber_x2r",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de servomotor"
+        },
+        {
+          "id": "cambio_cable_blindado_fiber_x2r",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de cable blindado"
+        },
+        {
+          "id": "cambio_cpu_fiber_x2r",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de CPU"
+        },
+        {
+          "id": "mantenimiento_cabezal_fiber_x2r",
+          "no_dias": 0.625,
+          "tiempo": 5,
+          "tipo": "Mantenimiento Cabezal"
+        },
+        {
+          "id": "nivelacion_mesa_fiber_x2r",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Nivelación de mesa"
+        },
+        {
+          "id": "parametrizacion_fiber_x2r",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Parametrización (Fiber)"
+        },
+        {
+          "id": "cambio_cremalleras_fiber_x2r",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Cambio de cremalleras"
+        },
+        {
+          "id": "cambio_mangueras_hidraulicas_fiber_x2r",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de mangueras hidraulicas"
+        },
+        {
+          "id": "cambio_mangueras_neumaticas_fiber_x2r",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de mangueras neumaticas"
+        },
+        {
+          "id": "configuracion_control_backup_fiber_x2r",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_fiber_x2r",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Desinstalación"
+        },
+        {
+          "id": "cuadratura_equipo_fiber_x2r",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cuadratura de Equipo"
+        },
+        {
+          "id": "remplazo_sin_fin_z_fiber_x2r",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje Z"
+        },
+        {
+          "id": "remplazo_sin_fin_x_fiber_x2r",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje X"
+        }
+      ],
+      "maquina": "FiberBlade X2R"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_fiber_x3",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_fiber_x3",
+          "no_dias": 3.5,
+          "tiempo": 28,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_fiber_x3",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "instalacion_capacitacion_fiber_x3",
+          "no_dias": 4.5,
+          "tiempo": 36,
+          "tipo": "Instalación/Capacitación"
+        },
+        {
+          "id": "mantenimiento_full_fiber_x3",
+          "no_dias": 3,
+          "tiempo": 24,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "instalacion_modulo_fiber_x3",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Instalación del módulo"
+        },
+        {
+          "id": "cambio_baleros_lineales_fiber_x3",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de baleros lineales"
+        },
+        {
+          "id": "cambio_bandas_fiber_x3",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de bandas"
+        },
+        {
+          "id": "cambio_fuente_fiber_x3",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de fuente Fiber"
+        },
+        {
+          "id": "cambio_modulo_fiber_x3",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Cambio de módulo"
+        },
+        {
+          "id": "cambio_chiller_fiber_x3",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de chiller"
+        },
+        {
+          "id": "desmonte_pinon_fiber_x3",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Desmonte de piñón"
+        },
+        {
+          "id": "instalacion_pinon_fiber_x3",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Instalación de piñón"
+        },
+        {
+          "id": "cambio_tarjeta_control_fiber_x3",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de tarjeta de control"
+        },
+        {
+          "id": "cambio_sensores_fiber_x3",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de sensores"
+        },
+        {
+          "id": "mantenimiento_saap_fiber_x3",
+          "no_dias": 0,
+          "tiempo": 0,
+          "tipo": "Mantenimiento de SAAP"
+        },
+        {
+          "id": "cambio_servodrive_fiber_x3",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de servodrive"
+        },
+        {
+          "id": "cambio_servomotor_fiber_x3",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de servomotor"
+        },
+        {
+          "id": "cambio_cable_blindado_fiber_x3",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de cable blindado"
+        },
+        {
+          "id": "cambio_cpu_fiber_x3",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de CPU"
+        },
+        {
+          "id": "mantenimiento_cabezal_fiber_x3",
+          "no_dias": 0.625,
+          "tiempo": 5,
+          "tipo": "Mantenimiento Cabezal"
+        },
+        {
+          "id": "nivelacion_mesa_fiber_x3",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Nivelación de mesa"
+        },
+        {
+          "id": "parametrizacion_fiber_x3",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Parametrización (Fiber)"
+        },
+        {
+          "id": "cambio_cremalleras_fiber_x3",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Cambio de cremalleras"
+        },
+        {
+          "id": "cambio_mangueras_hidraulicas_fiber_x3",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de mangueras hidraulicas"
+        },
+        {
+          "id": "cambio_mangueras_neumaticas_fiber_x3",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de mangueras neumaticas"
+        },
+        {
+          "id": "configuracion_control_backup_fiber_x3",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_fiber_x3",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Desinstalación"
+        },
+        {
+          "id": "cuadratura_fiber_x3",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cuadratura de Equipo"
+        },
+        {
+          "id": "remplazo_sin_fin_z_fiber_x3",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje Z"
+        },
+        {
+          "id": "remplazo_sin_fin_x_fiber_x3",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje X"
+        }
+      ],
+      "maquina": "FiberBlade X3"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_fiber_x3r",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_fiber_x3r",
+          "no_dias": 4,
+          "tiempo": 32,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_fiber_x3r",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "instalacion_capacitacion_fiber_x3r",
+          "no_dias": 5.5,
+          "tiempo": 44,
+          "tipo": "Instalación/Capacitación"
+        },
+        {
+          "id": "mantenimiento_full_fiber_x3r",
+          "no_dias": 3,
+          "tiempo": 24,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "instalacion_modulo_fiber_x3r",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Instalación del módulo"
+        },
+        {
+          "id": "cambio_baleros_lineales_fiber_x3r",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de baleros lineales"
+        },
+        {
+          "id": "cambio_bandas_fiber_x3r",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de bandas"
+        },
+        {
+          "id": "cambio_fuente_laser_fiber_x3r",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de fuente Fiber"
+        },
+        {
+          "id": "cambio_modulo_fiber_x3r",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Cambio de módulo"
+        },
+        {
+          "id": "cambio_chiller_fiber_x3r",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de chiller"
+        },
+        {
+          "id": "desmonte_pinon_fiber_x3r",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Desmonte de piñón"
+        },
+        {
+          "id": "instalacion_pinon_fiber_x3r",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Instalación de piñón"
+        },
+        {
+          "id": "cambio_tarjeta_control_fiber_x3r",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de tarjeta de control"
+        },
+        {
+          "id": "cambio_sensores_fiber_x3r",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de sensores"
+        },
+        {
+          "id": "mantenimiento_saap_fiber_x3r",
+          "no_dias": 0,
+          "tiempo": 0,
+          "tipo": "Mantenimiento de SAAP"
+        },
+        {
+          "id": "cambio_servodrive_fiber_x3r",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de servodrive"
+        },
+        {
+          "id": "cambio_servomotor_fiber_x3r",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de servomotor"
+        },
+        {
+          "id": "cambio_cable_blindado_fiber_x3r",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de cable blindado"
+        },
+        {
+          "id": "cambio_cpu_fiber_x3r",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de CPU"
+        },
+        {
+          "id": "mantenimiento_cabezal_fiber_x3r",
+          "no_dias": 0.625,
+          "tiempo": 5,
+          "tipo": "Mantenimiento Cabezal"
+        },
+        {
+          "id": "nivelacion_mesa_fiber_x3r",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Nivelación de mesa"
+        },
+        {
+          "id": "parametrizacion_fiber_x3r",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Parametrización (Fiber)"
+        },
+        {
+          "id": "cambio_cremalleras_fiber_x3r",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Cambio de cremalleras"
+        },
+        {
+          "id": "cambio_mangueras_hidraulicas_fiber_x3r",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de mangueras hidraulicas"
+        },
+        {
+          "id": "cambio_mangueras_neumaticas_fiber_x3r",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de mangueras neumaticas"
+        },
+        {
+          "id": "configuracion_control_backup_fiber_x3r",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_fiber_x3r",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Desinstalación"
+        },
+        {
+          "id": "cuadratura_fiber_x3r",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cuadratura de Equipo"
+        },
+        {
+          "id": "remplazo_sin_fin_z_fiber_x3r",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje Z"
+        },
+        {
+          "id": "remplazo_sin_fin_x_fiber_x3r",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Remplazó del tornillo sin fin eje X"
+        }
+      ],
+      "maquina": "FiberBlade X3R"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_fiber_x3d",
+          "no_dias": 3,
+          "tiempo": 24,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "desinstalacion_fiber_x3d",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Desinstalación"
+        }
+      ],
+      "maquina": "FiberBlade X3D"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_fiber_t6",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Instalación Fiber T6"
+        },
+        {
+          "id": "desinstalacion_fiber_t6",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Desinstalación"
+        }
+      ],
+      "maquina": "FiberBlade T6"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_fiber_t6l",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "desinstalacion_fiber_t6l",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Desinstalación"
+        }
+      ],
+      "maquina": "FiberBlade T6L"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_mfl",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_mfl",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_mfl",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "instalacion_capacitacion_mfl",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Instalación/Capacitación"
+        },
+        {
+          "id": "mantenimiento_full_mfl",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "cambio_modulo_mfl",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de módulo"
+        },
+        {
+          "id": "cambio_tarjeta_control_mfl",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de tarjeta de control"
+        },
+        {
+          "id": "cambio_cpu_mfl",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de CPU"
+        },
+        {
+          "id": "cambio_fuente_mfl",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de fuente MFL"
+        },
+        {
+          "id": "mantenimiento_cabezal_mfl",
+          "no_dias": 0.625,
+          "tiempo": 5,
+          "tipo": "Mantenimiento Cabezal"
+        },
+        {
+          "id": "nivelacion_mesa_mfl",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Nivelación de mesa"
+        },
+        {
+          "id": "configuracion_control_backup_mfl",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_mfl_rotativo",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Desinstalación"
+        }
+      ],
+      "maquina": "MFL"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_mfl_rotativo",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_mfl_rotativo",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_mfl_rotativo",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "instalacion_capacitacion_mfl_rotativo",
+          "no_dias": 2.5,
+          "tiempo": 20,
+          "tipo": "Instalación/Capacitación"
+        },
+        {
+          "id": "mantenimiento_full_mfl_rotativo",
+          "no_dias": 1,
+          "tiempo": 8,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "configuracion_control_backup_mfl_rotativo",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_mfl_rotativo",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Desinstalación"
+        }
+      ],
+      "maquina": "MFL + Rotativo"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_fiber_graver30",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "desinstalacion_fiber_gravir30",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Desinstalación"
+        }
+      ],
+      "maquina": "FiberGraver30"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_saap",
+          "no_dias": 0.2,
+          "tiempo": 4,
+          "tipo": "Instalación"
+        }
+      ],
+      "maquina": "SAAP"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_plasma",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_plasma",
+          "no_dias": 2.5,
+          "tiempo": 20,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_plasma",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Diagnóstico"
+        },
+        {
+          "id": "instalacion_capacitacion_plasma",
+          "no_dias": 3,
+          "tiempo": 24,
+          "tipo": "Instalación/Capacitación"
+        },
+        {
+          "id": "mantenimiento_full_plasma",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Mantenimiento Full"
+        },
+        {
+          "id": "cambio_baleros_lineales_plasma",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de baleros lineales"
+        },
+        {
+          "id": "cambio_bandas_plasma",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de bandas"
+        },
+        {
+          "id": "desmonte_pinon_plasma",
+          "no_dias": 0.125,
+          "tiempo": 1,
+          "tipo": "Desmonte de piñón"
+        },
+        {
+          "id": "instalacion_pinon_plasma",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Instalación de piñón"
+        },
+        {
+          "id": "cambio_tarjeta_control_plasma",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Cambio de tarjeta de control"
+        },
+        {
+          "id": "cambio_sensores_plasma",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de sensores"
+        },
+        {
+          "id": "cambio_driver_plasma",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Cambio de driver"
+        },
+        {
+          "id": "cambio_stepper_plasma",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de Stepper"
+        },
+        {
+          "id": "cambio_servodrive_plasma",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de servodrive"
+        },
+        {
+          "id": "cambio_servomotor_plasma",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de servomotor"
+        },
+        {
+          "id": "cambio_cable_blindado_plasma",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Cambio de cable blindado"
+        },
+        {
+          "id": "cambio_antorcha_plasma",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de antorcha (plasma)"
+        },
+        {
+          "id": "nivelacion_mesa_plasma",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Nivelación de mesa"
+        },
+        {
+          "id": "cambio_cremalleras_plasma",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Cambio de cremalleras"
+        },
+        {
+          "id": "cambio_mangueras_neumaticas_plasma",
+          "no_dias": 0.75,
+          "tiempo": 6,
+          "tipo": "Cambio de mangueras neumaticas"
+        },
+        {
+          "id": "configuracion_control_backup_plasma",
+          "no_dias": 0.375,
+          "tiempo": 3,
+          "tipo": "Configuración de control y backup"
+        },
+        {
+          "id": "desinstalacion_plasma",
+          "no_dias": 0.25,
+          "tiempo": 2,
+          "tipo": "Desinstalación"
+        }
+      ],
+      "maquina": "PlasmaBlade"
+    },
+    {
+      "info": [
+        {
+          "id": "diagnostico_equipo_externo",
+          "no_dias": 0.2,
+          "tiempo": 4,
+          "tipo": "Diagnóstico"
+        }
+      ],
+      "maquina": "Equipo Externo"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_weldworx",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_weldworx",
+          "no_dias": 2,
+          "tiempo": 8,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "cambio_modulo_laser_weldworx",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Cambio de módulo láser"
+        },
+        {
+          "id": "mantenimiento_cabezal_weldworx",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Mantenimiento del cabezal"
+        },
+        {
+          "id": "diagnostico_weldworx",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Diagnóstico Weldworx"
+        }
+      ],
+      "maquina": "WeldWorx"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_fiber_x0_r",
+          "no_dias": 2,
+          "tiempo": 16,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_fiber_x0_r",
+          "no_dias": 3,
+          "tiempo": 24,
+          "tipo": "Capacitación"
+        },
+        {
+          "id": "diagnostico_fiber_x0_r",
+          "no_dias": 0.5,
+          "tiempo": 4,
+          "tipo": "Diagnóstico"
+        }
+      ],
+      "maquina": "FiberBlade X0 R"
+    },
+    {
+      "info": [
+        {
+          "id": "instalacion_bendworx",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Instalación"
+        },
+        {
+          "id": "capacitacion_bendworx",
+          "no_dias": 1.5,
+          "tiempo": 12,
+          "tipo": "Capacitación"
+        }
+      ],
+      "maquina": "BendWorx"
+    }
+  ]
+}

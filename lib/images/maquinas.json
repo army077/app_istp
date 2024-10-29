@@ -1,0 +1,80 @@
+{
+    "equipos": [
+      {
+        "familia": "Router",
+        "maquinas": [
+          "Shop",
+          "Shop + Rotativo",
+          "Maker",
+          "Works",
+          "Works + Rotativo",
+          "WorksLT",
+          "Works B",
+          "ATC-Boss-NK",
+          "ATC-Boss-NK + Rotativo",
+          "ATC-Boss-Syntec",
+          "ATC-Boss-Syntec + Rotativo",
+          "ATC-SIEMENS",
+          "ATC BossC",
+          "ATC BossX2",
+          "WoodPro",
+          "StoneCNC",
+          "Multihead",
+          "Multihead + SWR Picador",
+          "MultiheadT",
+          "Shop Pro",
+          "ATC Boss-Adtech"
+        ]
+      },
+      {
+        "familia": "Láser CO2",
+        "maquinas": [
+          "Láser LZ",
+          "Láser LZ + Rotativo",
+          "LZ1309",
+          "LZ1309 + Rotativo",
+          "LZ1325",
+          "Creator",
+          "Creator + Rotativo",
+          "Creator0704",
+          "Creator1325",
+          "Creator1409",
+          "Creator1610",
+          "CK-LEG100"
+        ]
+      },
+      {
+        "familia": "Láser Fibra Óptica",
+        "maquinas": [
+          "FiberBlade X0",
+          "FiberBlade X1",
+          "FiberBlade X2",
+          "FiberBlade X2R",
+          "FiberBlade X3",
+          "FiberBlade X3R",
+          "FiberBlade X3D",
+          "FiberBlade T6",
+          "FiberBlade T6L",
+          "MFL",
+          "MFL + Rotativo",
+          "FiberGraver30",
+          "SAAP",
+          "WeldWorx",
+          "FiberBlade X0 R"
+        ]
+      },
+      {
+        "familia": "Plasma",
+        "maquinas": [
+          "PlasmaBlade"
+        ]
+      },
+      {
+        "familia": "Externo",
+        "maquinas": [
+          "Equipo Externo",
+          "BendWorx"
+        ]
+      }
+    ]
+  }
